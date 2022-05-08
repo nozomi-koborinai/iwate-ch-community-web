@@ -1,0 +1,4 @@
+enum PostMode{
+  timeLine,
+  keijiban
+}
